@@ -3,11 +3,7 @@
 This GitHub repository is forked from the [Azure Kinect DK Code Sample](https://github.com/microsoft/Azure-Kinect-Samples) of MICROSOFT. 
 It implements a Socket server to send data from the simple_3D_viewer app into a Python client. (example in the [posture app repo](https://github.com/Parrotlife/posture-app)).
 
-For more information about the Azure Kinect DK and available documentation, see [Azure.com/Kinect]
-(https://azure.microsoft.com/services/kinect-dk/)
-
-[![Build Status](https://microsoft.visualstudio.com/Analog/_apis/build/status/Analog/AI/depthcamera/microsoft.Azure-Kinect-Samples?branchName=master)]
-(https://microsoft.visualstudio.com/Analog/_build/latest?definitionId=41402&branchName=master)
+For more information about the Azure Kinect DK and available documentation, see [Microsoft doc](https://azure.microsoft.com/services/kinect-dk/)
 
 ## Building
 
